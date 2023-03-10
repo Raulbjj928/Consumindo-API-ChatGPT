@@ -13,14 +13,12 @@ while (true)
     await Pergunta(prompt);
 }
 
-//await Pergunta("escreva um verso com 4 estrofes, em portugues estilo boombap ");
-
 async Task Pergunta(string prompt)
 {
     if (String.IsNullOrWhiteSpace(prompt))
         return;
 
-    string apiKey = "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";
+    string apiKey = "";
 
     using (var client =new HttpClient())
     {
