@@ -1,0 +1,15 @@
+C:\Estudos\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.exe
+C:\Estudos\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.deps.json
+C:\Estudos\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.runtimeconfig.json
+C:\Estudos\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.dll
+C:\Estudos\ChatGPT\ChatGPT\bin\Debug\net6.0\ChatGPT.pdb
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.csproj.AssemblyReference.cache
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.AssemblyInfoInputs.cache
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.AssemblyInfo.cs
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.dll
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\refint\ChatGPT.dll
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.pdb
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ChatGPT.genruntimeconfig.cache
+C:\Estudos\ChatGPT\ChatGPT\obj\Debug\net6.0\ref\ChatGPT.dll
